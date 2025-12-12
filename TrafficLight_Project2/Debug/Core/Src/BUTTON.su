@@ -1,0 +1,5 @@
+BUTTON.c:28:12:read_button_pin	16	static
+BUTTON.c:32:9:button_is_pressed	16	static
+BUTTON.c:40:9:button_is_hold_1s	16	static
+BUTTON.c:48:9:button_is_hold_fast_tick	16	static
+BUTTON.c:56:6:GetKeyInput	16	static

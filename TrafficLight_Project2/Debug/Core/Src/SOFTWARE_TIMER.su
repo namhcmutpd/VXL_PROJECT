@@ -1,0 +1,3 @@
+SOFTWARE_TIMER.c:16:6:setTimer	16	static
+SOFTWARE_TIMER.c:23:6:timer_run	16	static
+SOFTWARE_TIMER.c:35:5:getTimerFlag	16	static

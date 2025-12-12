@@ -1,0 +1,7 @@
+LDC.c:20:6:lcd_send_cmd	32	static
+LDC.c:33:6:lcd_send_data	32	static
+LDC.c:46:6:lcd_clear	16	static
+LDC.c:52:6:lcd_put_cur	16	static
+LDC.c:66:6:lcd_init	8	static
+LDC.c:92:6:lcd_send_string	16	static
+LDC.c:96:6:updateLCD	16	static

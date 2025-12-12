@@ -1,0 +1,12 @@
+LCD.c:32:6:lcd_send_cmd	32	static
+LCD.c:45:6:lcd_send_data	32	static
+LCD.c:58:6:lcd_clear	16	static
+LCD.c:65:6:lcd_put_cur	16	static
+LCD.c:74:6:lcd_init	8	static
+LCD.c:91:6:lcd_send_string	16	static
+LCD.c:96:20:get_color_str	16	static
+LCD.c:109:13:LCD_Draw_Auto	8	static
+LCD.c:130:13:LCD_Draw_Manual	40	static
+LCD.c:156:13:LCD_Draw_Error	8	static
+LCD.c:167:13:LCD_Reset_Cache	8	static
+LCD.c:177:6:updateLCD	8	static
